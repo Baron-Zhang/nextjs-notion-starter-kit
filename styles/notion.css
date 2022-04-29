@@ -7,6 +7,10 @@
  * places to add some flare.
  */
 
+.notion-property-multi_select .notion-property-select {
+  flex-wrap: unset;
+}
+
 .notion {
   --notion-max-width: 720px;
   --notion-header-height: 54px;
@@ -381,8 +385,4 @@
 
 .notion-block-260baa77f1e1428b97fb14ac99c7c385 {
   display: none;
-}
-
-.notion-property-multi_select .notion-property-select {
-  flex-wrap: unset;
 }
