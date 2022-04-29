@@ -57,12 +57,12 @@
 .notion-gallery-grid .notion-page-icon-inline {
   display: none;
 }
-
+/*
 .notion-gallery-grid .notion-page-title-text {
   font-size: 2em;
   white-space: unset;
 }
-
+*/
 .notion-gallery-grid .notion-collection-card-property {
   white-space: unset;
   text-overflow: unset;
