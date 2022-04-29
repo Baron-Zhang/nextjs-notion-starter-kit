@@ -386,3 +386,7 @@
 .notion-property-multi_select, .notion-property-select {
   flex-wrap: unset;
 }
+
+.notion-page-content-has-aside .notion-aside {
+  display: none;
+}
