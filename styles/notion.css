@@ -173,12 +173,12 @@
 .notion-collection-page-properties .notion-collection-column-title {
   display: none;
 }
-*/
+
 .notion-collection-row-property .notion-property {
   display: flex;
   justify-content: center;
 }
-
+*/
 .notion-collection-row-value {
   display: flex;
   align-items: center;
