@@ -4,6 +4,10 @@
   }
 }
 
+.styles_footer__RBpyk {
+  width: auto;;
+}
+
 .container {
   position: absolute;
   top: 0;
@@ -204,8 +208,4 @@
 
 .hidden {
   visibility: hidden;
-}
-
-.styles_footer__RBpyk {
-  width: auto;;
 }
