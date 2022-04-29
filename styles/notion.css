@@ -7,7 +7,7 @@
  * places to add some flare.
  */
 
-.notion-property-multi_select .notion-property-select {
+.notion-property-multi_select, .notion-property-select {
   flex-wrap: unset;
 }
 
