@@ -11,7 +11,7 @@ export default siteConfig({
   // basic site info (required)
   name: '编曲素材',
   domain: 'bqsc.vercel.app',
-  author: '©️©编曲素材',
+  author: '©编曲素材',
 
   // open graph metadata (optional)
   description: 'Example Next.js Notion Starter Kit Site',
